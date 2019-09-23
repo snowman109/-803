@@ -3,35 +3,34 @@
 #### 介绍
 记录了自己学习803所记录的内容
 
-#### 软件架构
-软件架构说明
+#### 前提要求
+欲练此功，必先自宫
 
+#### 软件架构
+想要搭建此架构，必须吸收日月之精华，原地倒立七七四十九天，方可进入初级阶段。之后寻找武林上失传已久的王道四本武林秘籍，反复修炼九九八十一天，直到走火入魔，方可集天下计算机秘法之大成，架构成功。
 
 #### 安装教程
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. 复习数学
+2. 复习专业课
+3. 复习英语
+4. 复习政治
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. 做数学题
+2. 做专业课题
+3. 做英语题
+4. 做政治题
 
 #### 参与贡献
 
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+1. 记录数学
+2. 记录专业课
+3. 记录英语
+4. 记录政治
 
 
-#### 码云特技
+#### 最后感想
 
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+老子一定能考上研究生
